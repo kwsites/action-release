@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo 'Coming soon'",
     "build": "tsc",
-    "package": "ncc build src/index.ts"
+    "package": "ncc build src/index.ts && git add dist/index.js"
   },
   "repository": "git@github.com:kwsites/action-release.git",
   "keywords": [
