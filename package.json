@@ -17,7 +17,7 @@
   "author": "Steve King <steve@mydev.co>",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.1.1"
+    "@actions/core": "^1.9.1"
   },
   "devDependencies": {
     "@types/node": "^12.0.0",
